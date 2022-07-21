@@ -1,9 +1,5 @@
 # special-pancake
 
-Repo test
+Repository de test
 
-> Comment
-
-  Test
-
-------
+https://naarol.github.io/special-pancake/
