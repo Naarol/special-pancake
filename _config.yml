@@ -1,2 +1,7 @@
-# This is a comment.
+# This is a comment
+# Minimal configuration
+theme: github-pages-test-site
+title: Special Pancake
+description: A test site with GitHub Pages
+# Markdown
 markdown: GMF
