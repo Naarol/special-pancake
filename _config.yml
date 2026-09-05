@@ -1,6 +1,6 @@
 # This is a comment
 # Minimal configuration
-theme: github-pages-test-site
+# theme: github-pages-test-site # commented line
 title: Special Pancake
 description: A test site with GitHub Pages
 # Markdown
